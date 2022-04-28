@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react'
-import RNModuleTemplateModule, { Counter } from 'react-native-module-template'
+import RNPaystackWebview2Module, { Counter } from 'react-native-paystack-webview-2'
 
 const App = () => {
   useEffect(() => {
-    console.log(RNModuleTemplateModule)
+    console.log(RNPaystackWebview2Module)
   })
 
   return <Counter />
