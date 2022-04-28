@@ -69,6 +69,6 @@
   },
   "dependencies": {
     "react-native-webview": "*",
-    "validator": "latest"
+    "validator": "13.6.0"
   }
 }
