@@ -52,7 +52,9 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-webview": "*",
+    "validator": "*"
   },
   "jest": {
     "preset": "react-native",
@@ -64,5 +66,9 @@
       "json",
       "node"
     ]
+  },
+  "dependencies": {
+    "react-native-webview": "*",
+    "validator": "latest"
   }
 }
